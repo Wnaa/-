@@ -1,0 +1,63 @@
+.public-header{
+	height: 50px;
+	width: 1920px;
+	background-color: #392C46;
+}
+.public-header .header-logo{
+	height: 50px;
+	width: 50px;
+	float: left;
+	background-color: black;
+}
+.public-header .header-nav{
+	position: absolute;
+	height: 50px;
+	width: 800px;
+	margin-left: 200px;
+}
+.public-header .header-nav .item{
+	float: left;
+	margin-left:50px;
+	margin-top: 10px;
+	font-size:23px;
+	width: 100px;
+	
+}
+.public-header .header-nav a{
+    
+	color:white;
+}
+
+.public-header .header-search{
+	height: 50px;
+	width: 86px;
+	float: right;
+	background-color: green;
+
+}
+.public-container{
+	position: relative;
+	width: 1200px;
+	margin: 0 auto;
+	height: 50px;
+	overflow: hidden;
+
+}
+.public-footer{
+	width: 1200px;
+	height: 106px;
+    margin: 0 auto;
+	position: relative;
+
+}
+.public-footer-logo{
+    width: 220px;
+    height: 106px;
+    float: left;
+}
+.public-footer-nav{
+	width:400px;
+	height: 50px;
+	float: right;
+	margin-top: 50px;
+}

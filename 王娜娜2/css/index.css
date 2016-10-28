@@ -1,0 +1,271 @@
+.index-banner{
+	position: relative;
+   
+}
+.index-back{
+	height: 1031px;
+	width: 1920px;
+	overflow: hidden;
+}
+.index-serve{
+	height: 2650px;
+	width: 1920px;
+	position: relative;
+}
+.index-serve-1{
+	margin-top: 0;
+	float: left;
+	width:960px;
+	height: 594px;
+}
+.index-serve-2{
+	margin-top: 0;
+	float: right; 
+	width:960px;
+	height: 594px;
+}
+.index-server-3{
+	width: 1920px;
+	height: : 870px;
+}
+.index-list1{
+   margin-left: 200px;
+   margin-top: 120px;
+   font-size: 40px;
+}
+.index-list2{
+	margin-top: 90px;
+	margin-right: 240px;
+	margin-left: 110px;
+	font-size: 24px;
+}
+.index-activity{
+	position: relative;
+	width: 1170px;
+	height: 1460px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.activity-list1{
+	margin-left: 460px;
+	margin-top: 100px;
+	font-size: 50px;
+}
+.activity-list2{
+	margin-left: 370px;
+	margin-top: 30px;
+	font-size: 30px;
+}
+.index-activity-1{
+	height:200px;
+}
+.index-activity-2{
+	height:  680px;
+}
+.index-activity-3{
+    height: 310px;
+    position: relative;
+}
+.index-activity-2 .act1{
+	width: 570px;
+	height: 650px;
+	margin-top: 0;
+	float: left;
+}
+.index-activity-2 .act2{
+	width: 570px;
+	height: 310px;
+    float: right;
+	margin-top: 0;
+}
+.index-activity-2 .act3{
+	position: absolute;
+	width: 270px;
+	height: 310px;
+    margin-left: 600px;
+    margin-top: 340px;
+}
+.index-activity-2 .act4{
+	position: absolute;
+	width: 270px;
+	height: 310px;
+    margin-left: 900px;
+    margin-top: 340px;
+}
+.index-activity-3 .act5{
+	width: 270px;
+	height: 310px;
+    float: left;
+}
+.index-activity-3 .act6{
+	position: absolute;
+	width: 270px;
+	height: 310px;
+    margin-left: 300px;
+}
+.index-activity-3 .act7{
+   
+	width: 570px;
+	height: 310px;
+    float: right;
+    margin-top: 0px;
+}
+.index-partner{
+	height: 820px;
+	background-color: #FFEFE9;
+}
+.index-partner-header{
+	width: 1200px;
+	height: 300px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.index-partner-index{
+	position: relative;
+	width: 1200px;
+	height: 600px;
+	margin: 0 auto;
+}
+.partner-list1{
+	margin-top: 70px;
+	margin-left: 500px;
+	font-size: 50px;
+}
+.partner-list2{
+     margin-top: 15px;
+     margin-left: 250px;
+     margin-right: 250px;
+     font-size: 26px;
+}
+.index-partner-par1{
+	width: 600px;
+	height: 300px;
+	float: left;
+}
+.index-partner-par2{
+	width: 600px;
+	height: 300px;
+	float: right;
+}
+.index-partner-p1{
+	width: 180px;
+	height: 170px;
+	float: left;
+}
+.index-partner-p2{
+	width:400px;
+	height: 170px;
+    float: right; 
+}
+.it1{
+	
+	font-size: 24px;
+}
+.it2{
+	margin-right: 40px;
+	margin-top: 30px;
+	font-size: 16px;
+}
+.index-country{
+	width: 1200px;
+    height: 550px;
+    margin: 0 auto;
+}
+.index-country-header{
+	width: 1200px;
+	height: 180px;
+	background-color: white;
+}
+
+.country-list1{
+	margin-top: 50px;
+	margin-left: 500px;
+	font-size: 50px;
+}
+.country-list2{
+	margin-top: 20px;
+	margin-left: 470px;
+	font-size: 30px;
+}
+
+.index-country-left{
+	width: 520px;
+	height: 370px;
+	float: left;
+}
+.index-country-right{
+	width: 680px;
+	height: 370px;
+	float: right;
+}
+.list1{
+	margin-top: 80px;
+	font-size: 24px;
+}
+.list2{
+	font-size: 20px;
+}
+.list3{
+	margin-top: 30px;
+	font-size: 16px;
+}
+.list4{
+	margin-left: 300px;
+}
+.index-us{
+    height: 760px;
+}
+.index-contact{
+	
+	height: 600px;
+	background-color:  #FFEFE9;
+}
+.index-contact-header{
+	width: 1200px;
+	height: 240px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.contact-list1{
+	margin-left: 500px;
+	margin-top: 70px;
+	font-size: 40px;
+}
+.contact-list2{
+	margin-top: 30px;
+	margin-left: 140px;
+	margin-right: 160px;
+	font-size: 20px;
+}
+.index-contact-index{
+	position: relative;
+	width: 1200px;
+	height: 360px;
+	margin:0 auto;
+}
+.index-contact-left{
+	width: 770px;
+	height: 360px;
+	float: left;
+	overflow: hidden;
+}
+.index-contact-right{
+	width: 430px;
+	height:200px;
+    float:right; 
+	margin-top: 70px;
+}
+.contact-li{
+	margin-top: 60px;
+	margin-left: 200px;
+}
+.li-list1{
+	font-size: 30px;
+}
+.li-list2{
+	font-size: 24px;
+	margin-top: 30px;
+}
+.li-list3{
+	font-size: 24px;
+}
